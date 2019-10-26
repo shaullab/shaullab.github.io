@@ -1,0 +1,134 @@
+body{
+	margin-top:74px;
+	position: relative;
+	direction: rtl;
+}
+
+#appName{
+	margin: 0;
+}
+
+#contactText{
+	font-size:20px;
+}
+
+#phoneNumber{
+	
+}
+/**
+#navbarSupportedContent ul{
+	margin: 0 !important;
+	padding: 0 !important;
+}
+**/
+.form-control{
+	margin-right:7px;
+}
+
+.loginButton{
+	margin-right:5px;
+}
+
+.optionsList{
+	font-size:110%;
+}
+
+#mainHeader{
+	font-size:450%;
+}
+
+#emailInputDiv{
+	width:440px;
+	margin:0 auto;
+}
+
+#email{
+	width:300px;
+	margin-right:5px;
+}
+
+.jumbotron{
+    background:url("media/final_background.jpg");
+	background-color:rgba(0, 0, 3, 0);
+    background-size:cover;
+    background-position:center;
+    border-radius: 0 !important;
+	text-align:center;
+}
+
+#summary{
+	text-align:center;
+	display:block;
+	margin-top:50px;
+	margin-bottom:60px;
+}
+
+@media only screen and (min-width: 800px) {
+	.service-card{
+		margin-right: 50px !important;
+		margin-left: 50px !important;
+	}
+}
+
+.active{
+	color:blue;
+}
+
+.card-img-top{
+	width:100%;
+	height:300px;
+}
+
+.card-title{
+	font-size:170%;
+	text-align:right;
+}
+
+.card-text{
+	text-align:right;
+}
+
+#about{
+	margin-bottom:50px;
+}
+
+#downloadAppDiv{
+	width:100%;
+	padding-top:80px;
+	text-align:center;
+	background-color:#9CE6FB;
+	padding-bottom:80px;
+}
+.finalSummary{
+	font-size:20px;
+	width:70%;
+	margin:0 auto;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+#downloadAppDiv img{
+	width:200px;
+}
+
+#divContent{
+	display:inline-block;
+}
+
+#signature{
+	bottom:5px;
+	right:5px;
+	position:absolute;
+}
+
+#time{
+	text-align:center;
+	margin-top:40px;
+	padding-top:80px;
+	padding-bottom:50px;
+	background-color:#e6e6e6;
+}
+
+#time h1{
+	margin-bottom:30px;
+}
